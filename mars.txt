@@ -1,4 +1,3 @@
 mars is red
-this is kinda really code
+this is not really code
 rovers are sad
-another text
